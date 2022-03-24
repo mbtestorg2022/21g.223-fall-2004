@@ -35,9 +35,9 @@ Prominence ([PDF]({{< baseurl >}}/resources/mit21g_223f04_prominence))
 
 Sentence Stress and Rhythm ([PDF]({{< baseurl >}}/resources/mit21g_223f04_sent_stres_n))
 
-The Sound System of NAE (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21g_223f04_soundsystem))
+The Sound System of NAE ([PDF]({{< baseurl >}}/resources/mit21g_223f04_soundsystem))
 
-Vowels (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21g_223f04_vowels))
+Vowels ([PDF]({{< baseurl >}}/resources/mit21g_223f04_vowels))
 
 Word Stress ([PDF]({{< baseurl >}}/resources/mit21g_223f04_wordstress))
 
