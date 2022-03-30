@@ -4,6 +4,7 @@ description: Study handout. Course Handouts are adapted from Janet Goodwin's AP&
   C213-Phonetics for Second/Foreign Language Education, UCLA.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-223-listening-speaking-and-pronunciation-fall-2004/28a4e737afec1c15e0d4dda59b762d87_MIT21G_223F04_adjustments.pdf
 file_type: application/pdf
+parent_uid: 7a8a3317-ed8b-b932-e814-7d4a80963749
 resourcetype: Document
 title: Adjustments
 uid: 28a4e737-afec-1c15-e0d4-dda59b762d87

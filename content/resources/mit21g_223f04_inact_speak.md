@@ -4,6 +4,7 @@ description: Study handout. Course Handouts are adapted from Janet Goodwin's AP&
   C213-Phonetics for Second/Foreign Language Education, UCLA.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-223-listening-speaking-and-pronunciation-fall-2004/fb85870f8fed76efeaa845eaab05daac_MIT21G_223F04_inact_speak.pdf
 file_type: application/pdf
+parent_uid: 7a8a3317-ed8b-b932-e814-7d4a80963749
 resourcetype: Document
 title: Interactive Speaking Gambits
 uid: fb85870f-8fed-76ef-eaa8-45eaab05daac
